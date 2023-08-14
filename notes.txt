@@ -1,0 +1,2 @@
+1. npx create-react-app shopemate //buat project
+2.npm i react-router-dom // INSTAL ROOTER
